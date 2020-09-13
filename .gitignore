@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Truffle contract build files
+build/contracts
